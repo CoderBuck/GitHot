@@ -1,4 +1,4 @@
-package me.buck.githot;
+package me.buck.githot.bean;
 
 import java.util.List;
 

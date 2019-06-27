@@ -1,9 +1,9 @@
-package me.buck.githot;
+package me.buck.githot.bean;
 
 /**
  * Created by gwf on 2019/6/26
  */
-public class DevBean {
+public class Dev {
 
 
     /**
@@ -14,7 +14,7 @@ public class DevBean {
      * repo : {"name":"","description":"","url":"https://github.comundefined"}
      */
 
-    private String username;
+    private String   username;
     private String   type;
     private String   url;
     private String   avatar;
